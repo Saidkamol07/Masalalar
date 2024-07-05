@@ -1,2 +1,3 @@
 # Masalalar
 # exerises
+# exerises
