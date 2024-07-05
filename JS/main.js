@@ -6,18 +6,18 @@
 
 // 2
 
-// function add(a) {
+// let a = (a) => {
 // 	console.log(a ** 2);
 // }
 
-// add(4);
+// a(4);
 
 // 3
-// function add(a, b) {
+// let w = (a, b) => {
 // 	console.log(a + b);
 // }
 
-// add(22, 33);
+// w(22, 33);
 
 // 4
 
@@ -29,15 +29,15 @@
 
 // 5
 
-// function add(a) {
+// let q = (a) => {
 // 	console.log(a ** 3);
 // }
 
-// add(2);
+// q(2);
 
 // 6
 
-// const a = function add(a, b) {
+// let a = (a, b) => {
 // 	console.log(a * b);
 // };
 
@@ -60,9 +60,9 @@
 // x(4, 2);
 
 10;
-function add(a) {
+let c = a => {
 	let i = toString(a);
 	console.log(typeof i);
-}
+};
 
-add(25);
+c(25);
