@@ -1,10 +1,15 @@
-function add(x, y) {
-	return x + y;
-}
+// Function Return
 
-console.log(add(5, 10));
+// function add(x, y) {
+// 	return x + y;
+// }
 
-const a = add(2, 3);
-if (a === 5) {
-	console.log('Teng');
-}
+// console.log(add(5, 10));
+
+// const a = add(2, 3);
+// if (a === 5) {
+// 	console.log('Teng');
+// }
+
+// let a = (a, b, c) => a + b + c;
+// console.log(a(4, 5, 7));
